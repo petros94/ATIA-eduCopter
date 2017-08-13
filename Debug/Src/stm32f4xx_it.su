@@ -1,0 +1,4 @@
+stm32f4xx_it.c:62:6:SysTick_Handler	8	static
+stm32f4xx_it.c:84:6:TIM3_IRQHandler	8	static
+stm32f4xx_it.c:97:6:HAL_TIM_PeriodElapsedCallback	88	static
+stm32f4xx_it.c:133:6:USART2_IRQHandler	8	static
