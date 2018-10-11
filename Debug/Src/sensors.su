@@ -1,3 +1,0 @@
-sensors.c:22:6:initState	8	static
-sensors.c:36:6:updateState	56	static
-sensors.c:62:17:MPU6050_getData	24	static

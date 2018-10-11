@@ -1,3 +1,0 @@
-core_cm4.h:1626:22:NVIC_EnableIRQ	16	static
-core_cm4.h:1637:22:NVIC_DisableIRQ	16	static
-diagnostics.c:18:6:sendDiagnostics	64	static

@@ -1,8 +1,0 @@
-core_cm4.h:1637:22:NVIC_DisableIRQ	16	static
-serial.c:25:17:ReceiveIT	16	static
-serial.c:31:17:CheckReceive	16	static
-serial.c:36:17:Transmit	16	static
-serial.c:45:17:listen	56	static
-serial.c:97:17:message_handler	16	static
-serial.c:111:17:readResponse	48	static
-serial.c:132:17:writeResponse	16	static
