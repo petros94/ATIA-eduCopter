@@ -2,9 +2,8 @@
 An educational platform for controlling a quadcopter using matlab
 
 ## What's in this repository? ##
-This repository contains code that allow the control of a quadcopter using Matlab from a computer connected with serial (usb). 
-The repository was created 
-The code is created for the STM32F401RE micocontroller and provides the following features:
+This repository contains code that allow the control of a quadcopter using Matlab from a computer connected with serial (usb).  
+The code is created for the STM32F401RE microcontroller and provides the following features:
 
 * Set the speed of each one of the four motors
 * Retrieve accelerometer/gyroscope values from the quadcopter's sensor
